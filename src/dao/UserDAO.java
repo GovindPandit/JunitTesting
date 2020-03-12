@@ -3,6 +3,7 @@ package dao;
 import java.util.List;
 import model.User;
 
+//
 public interface UserDAO
 {
 	public boolean addUser(User u);
